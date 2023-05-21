@@ -1,0 +1,19 @@
+footer{
+    background-color:#2C405A;
+}
+
+/* las etiquetas a sin subrayar y en negrita*/
+footer a{
+    text-decoration: none;
+    font-weight: 700;
+    color:#708090;
+    font-size: 18px;
+}
+footer a:hover{
+    text-decoration-color:#708090;
+}
+/*no mostramos los circulos de la lista*/
+footer li{
+    list-style: none;
+    padding-left: 1%;
+}
